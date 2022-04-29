@@ -13,10 +13,6 @@
 
   
 
-
-
-  
-### Hit me up !
   <hr>
 <div style="display: inline_block"><br>
   <a href="https://stackoverflow.com/users/13001797/cihan-%c3%87all%c4%b1" target="_blank"><img src="https://img.shields.io/badge/-Stackoverflow-000000?style=for-the-badge&logo=stackoverflow&logoColor=orange" target="_blank"></a>
